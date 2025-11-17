@@ -1,0 +1,9 @@
+# Exclude large Tableau files
+*.twbx
+
+# Exclude Tableau temporary files
+*.twb~
+
+# Large data files if needed
+*.csv
+data/Datasource/*.csv
