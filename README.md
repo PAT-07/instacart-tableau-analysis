@@ -10,11 +10,6 @@ Analysis of 3+ million grocery orders from Instacart using Tableau to create a d
 ## Data Source
 Instacart Market Basket Analysis dataset
 
-## Deliverables
-- Tableau Workbook (.twbx)
-- Answer Document with Screenshots
-- Storyboard Documentation
-
 ## Analysis Sections
 1. Data Acquisition & Relationships
 2. Audience Definition
